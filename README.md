@@ -1,9 +1,5 @@
 # NNEF-Docs
 
-This repository (https://github.com/KhronosGroup/NNEF-Docs) is currently
-empty, and is used only to file issues about the NNEF Specification.
+This repository is currently empty, and is used only to file issues about the NNEF Specification hosted in the Khronos <a href="https://www.khronos.org/registry/NNEF/"> NNEF Registry</a>.
 
-The NNEF Specification is hosted in the Khronos <a
-href="https://www.khronos.org/registry/NNEF/"> NNEF Registry</a>, but this
-is simply a publication mechanism. Actual specification issues should be
-filed here in NNEF-Docs.
+Future versions of NNEF will be proposed and developed publicly in this repository.
