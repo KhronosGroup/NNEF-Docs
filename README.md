@@ -1,5 +1,3 @@
 # NNEF-Docs
 
-This repository is currently empty, and is used only to file issues about the NNEF Specification hosted in the Khronos <a href="https://www.khronos.org/registry/NNEF/"> NNEF Registry</a>.
-
-Future versions of NNEF will be proposed and developed publicly in this repository.
+This repository hosts draft versions of the publicly developed NNEF v2.0 specification. It is used to file issues about the draft NNEF Specification as well as the stable NNEF Specification version hosted in the Khronos <a href="https://www.khronos.org/registry/NNEF/"> NNEF Registry</a>.
